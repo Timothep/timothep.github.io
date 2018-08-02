@@ -3,4 +3,4 @@
 
 Let's see
 
-./start.ad
+[Lets get started](sections/start.html)
