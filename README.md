@@ -10,7 +10,7 @@ Being a software developer is all about making decisions. Be it naming objects, 
 
 This is the purpose of this gamebook. It neither has the pretense to be complete nor to be fully correct. But it is a study of the most complete toolbelt I could come up with... while remaining entertaining. The goal of this gamebook is to name those tools and briefly present them in a practical context. Once you’ve learned about such a tool, you should be ready to pursue your inquiry on your own. The very nature of this gamebook helps us then go down different rabbit holes and see common short, mid and long term effects those tools have on our developer's journeys.
 ​
-## How to use this gamebook?
+## The principles behind the book
 
 ### Non-linearity is a feature
 
@@ -30,5 +30,24 @@ The writing process of this gamebook is a participative journey in itself. I cre
 
 This means that are able to see this gamebook being written and take part into its creation. Play through a chapter and then give me feedback. Did you feel limited in the available options at a particular decision point? Open a new issue about that particular line and let me know what you would have preferred and why. You can even make a pull request if you feel like it. Grab this chance in helping me crafting the best gamebook about software development there is (I couldn't find any other anyway ;)
 
-Thanks,
-Tim
+# How to use this gamebook?
+
+There are multiple ways to enjoy this gamebook.
+
+## Interactively
+
+The first one is to enjoy it interactively. This gamebook is created using [Twine](https://twinery.org/). After each chapter is completed, a playable version will be uploaded here. Here are the links to jump right into the action (note that you must have played from the begining to be able to handle the tokens):
+
+ * First Chapter...
+
+Note that you cannot roll back to the middle of a chapter, you have to click through.
+
+## Read it as a book
+
+Each chapter has a single entry point and is compiled as a linear book with various sections. Each section is numbered and referenced throughout the book.
+
+* First Chapter...
+
+# Copyright
+
+All rights reserved Timothée Bourguignon 2018.
