@@ -30,11 +30,11 @@ The writing process of this gamebook is a participative journey in itself. I cre
 
 This means that are able to see this gamebook being written and take part into its creation. Play through a chapter and then give me feedback. Did you feel limited in the available options at a particular decision point? Open a new issue about that particular line and let me know what you would have preferred and why. You can even make a pull request if you feel like it. Grab this chance in helping me crafting the best gamebook about software development there is (I couldn't find any other anyway ;)
 
-# How to use this gamebook?
+## How to use this gamebook?
 
 There are multiple ways to enjoy this gamebook.
 
-## Interactively
+### Interactively
 
 The first one is to enjoy it interactively. This gamebook is created using [Twine](https://twinery.org/). After each chapter is completed, a playable version will be uploaded here. Here are the links to jump right into the action (note that you must have played from the begining to be able to handle the tokens):
 
@@ -42,12 +42,12 @@ The first one is to enjoy it interactively. This gamebook is created using [Twin
 
 Note that you cannot roll back to the middle of a chapter, you have to click through.
 
-## Read it as a book
+### Read it as a book
 
 Each chapter has a single entry point and is compiled as a linear book with various sections. Each section is numbered and referenced throughout the book.
 
 * First Chapter...
 
-# Copyright
+## Copyright
 
 All rights reserved Timothée Bourguignon 2018.
