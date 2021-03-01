@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+<div class="content">
+    {{ content }}
+</div>
+<div class="options">
+    Options:
+    {% for option in page.options %}
+    <div><a class="option-item" href="{{ option[0] }}">{{ option[1] | default: "Continue" }}</a></div>
+    {% endfor %}
+    <div></div>
+    <div class="github-link"><a href="http://github.com/Timothep/timothep.github.io/blob/master/section/"{{ page.title }}.md>View this page on GithHub</a></div>
+</div>
+
+</body>
+
+</html>
